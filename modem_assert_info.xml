@@ -1,0 +1,1 @@
+03-28 19:21:05   Modem Assert LTE_layer1_adx in file layer1_adx_dsp.c at line 623 exp=0 info=[dsp assert:0x4000,0x35b,0xe210,0x4:LTEDSP: unknown LTE DSP]
